@@ -8,7 +8,7 @@
  * @returns {number} Largest number in the array
  */
 
-function largestNum() {}
+function largestNum(array) {}
 
 /**
  * Takes in an array and returns the sum of all the odd numbers.
